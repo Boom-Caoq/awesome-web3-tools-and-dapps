@@ -337,7 +337,8 @@
 - [Recap](https://recap.io/en-US) - Recap is an app for calculating crypto taxes with a focus on privacy.
 
 ### Crypto Trading Tools
-- [DustSweeper](https://www.dustsweeper.xyz/) - Easily convert leftover small amounts of tokens into ETH with low transaction costs.
+- [Coinpred](https://coinpred.com/) - AI short-term BTC/ETH direction analysis with probability and confidence, Kronos candle forecasts, and openly tracked signal results. Free daily credits.
+- - [DustSweeper](https://www.dustsweeper.xyz/) - Easily convert leftover small amounts of tokens into ETH with low transaction costs.
 
 ### Custody Solutions
 - [Anchorage Digital](https://www.anchorage.com/) - A safe system to manage digital assets for traders, holders, and compliance purposes.
